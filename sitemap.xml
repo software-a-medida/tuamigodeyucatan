@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tuamigodeyucatan.com/</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.00</priority>
+    </url>
+    <url>
+        <loc>https://tuamigodeyucatan.com/nuestro-tour-de-casa</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://tuamigodeyucatan.com/otros-tours</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tuamigodeyucatan.com/chichen-itza</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://tuamigodeyucatan.com/rio-lagartos</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://tuamigodeyucatan.com/contactanos</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://tuamigodeyucatan.com/terminos-y-condiciones</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://tuamigodeyucatan.com/aviso-de-privacidad</loc>
+        <changefreq>yearly</changefreq>
+        <priority>1.00</priority>
+    </url>
+</urlset>
